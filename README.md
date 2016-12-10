@@ -2,4 +2,6 @@
 
 wuhahaha
 
-[google.com][google.com]
+GOOGLE[1]
+
+[1]: http://google.com
